@@ -1,0 +1,11 @@
+body {
+	/*background-color:*/
+	background-image: url("Background.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#pinkinstructions {
+	border: 6px solid transparent;
+ 	border-image: linear-gradient(to bottom, red, blue);
+  	border-image-slice: 1;
+}
